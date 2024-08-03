@@ -71,7 +71,9 @@ SSClipBot - это мощный бот для скачивания видео и
 
 
 
-
+#hesa
+<iframe width="560" height="315" src="https://github.com/user-attachments/assets/18f10ad6-5d2e-48f4-b473-133fd289d382" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://github.com/user-attachments/assets/9240df64-9fbe-496c-a3dd-6e31222907be" frameborder="0" allowfullscreen></iframe>
 
 
 
