@@ -25,17 +25,11 @@ SSClipBot - это мощный бот для скачивания видео и
 
 ## Пример работы
 
-![Screenshot 2024-08-03 163741]()
-
-![Screenshot 2024-08-03 164050]()
-
-![Screenshot 2024-08-03 163938]()
-
-
-<table>
-  <tr>
-    <td><img src="https://github.com/user-attachments/assets/a119ab05-7d97-4b5a-a1f4-82be0f1463f4" alt="График 1" width="400"/></td>
-    <td><img src="https://github.com/user-attachments/assets/b2092648-817b-4aaf-80d3-4911def50483" alt="График 2" width="400"/></td>
-    <td><img src="https://github.com/user-attachments/assets/c7314fc3-e9f1-433f-b66f-0ecab574c202" alt="График 2" width="400"/></td>
-  </tr>
-</table>
+### Привествие
+  <table>
+    <tr>
+      <td><img src="https://github.com/user-attachments/assets/a119ab05-7d97-4b5a-a1f4-82be0f1463f4" alt="График 1" width="400"/></td>
+      <td><img src="https://github.com/user-attachments/assets/d5552edc-8848-445a-882c-3451e1c52d2b" alt="График 2" width="400"/></td>
+      <td><img src="https://github.com/user-attachments/assets/cfaaa2c0-c466-4781-b68e-68d04ca83231" alt="График 3" width="400"/></td>
+    </tr>
+  </table>
