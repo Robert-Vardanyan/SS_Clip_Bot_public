@@ -64,38 +64,33 @@ SSClipBot - это мощный бот для скачивания видео и
 ### Работа самого бота
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/7e1abb6b-1647-461a-91bb-04e2b7b0d5ec" width="560" height="315" />
+  <img src="https://github.com/user-attachments/assets/7e1abb6b-1647-461a-91bb-04e2b7b0d5ec" width="612" height="1006" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/219b2c01-bafa-4fa1-8840-2398c957555b" width="560" height="315" />
+  <img src="https://github.com/user-attachments/assets/219b2c01-bafa-4fa1-8840-2398c957555b" width="612" height="1006" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6efef766-cb06-4ae2-88fd-d0677b27ca74" width="560" height="315" />
+  <img src="https://github.com/user-attachments/assets/6efef766-cb06-4ae2-88fd-d0677b27ca74" width="612" height="1006" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/18f10ad6-5d2e-48f4-b473-133fd289d382" width="560" height="315" />
+  <img src="https://github.com/user-attachments/assets/18f10ad6-5d2e-48f4-b473-133fd289d382" width="612" height="1006" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/9240df64-9fbe-496c-a3dd-6e31222907be" width="560" height="315" />
+  <img src="https://github.com/user-attachments/assets/9240df64-9fbe-496c-a3dd-6e31222907be" width="612" height="1006" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e5587b5c-284a-453e-be43-62b8f3ad75f0" width="560" height="315" />
+  <img src="https://github.com/user-attachments/assets/f8b700a0-d987-46b7-8f27-d543048aec63" width="612" height="1006" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f8b700a0-d987-46b7-8f27-d543048aec63" width="560" height="315" />
+  <img src="https://github.com/user-attachments/assets/702f165e-c739-497d-a8c1-865afd070c6e" width="612" height="1006" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/702f165e-c739-497d-a8c1-865afd070c6e" width="560" height="315" />
+  <img src="https://github.com/user-attachments/assets/d458b22b-929d-452f-81f9-64e9cad53b5d" width="612" height="1006" />
 </p>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/d458b22b-929d-452f-81f9-64e9cad53b5d" width="560" height="315" />
-</p>
-
