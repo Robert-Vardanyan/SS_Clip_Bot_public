@@ -63,11 +63,41 @@ SSClipBot - это мощный бот для скачивания видео и
 
 ### Работа самого бота
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+https://github.com/user-attachments/assets/2d6c7ae9-a2ab-4c87-b523-a864960da21b
+
+
+
+https://github.com/user-attachments/assets/25618965-2da1-4514-9c04-50066a58e88b
+
+
+
+https://github.com/user-attachments/assets/cafc3cf3-f988-4b73-8c7e-c19a77695718
+
+
+
+
+
   <table>
     <tr>
-      <td><img src="https://github.com/user-attachments/assets/bf737511-7f39-4711-a615-1293baba3c1e" alt="График 1" width="400"/></td>
-      <td><img src="https://github.com/user-attachments/assets/af4fcd12-4434-4539-bc63-bf59dfcec99b" alt="График 2" width="400"/></td>
-      <td><img src="https://github.com/user-attachments/assets/013e2d04-9dea-470f-becf-a8db8d0f5896" alt="График 3" width="400"/></td>
+      <td><img src="https://github.com/user-attachments/assets/a70fda41-572f-4b4a-a173-ea31fd8868c1" alt="График 1" width="400"/></td>
+      <td><img src="https://github.com/user-attachments/assets/d892911f-23dd-4aa9-bc06-0ea42ac63368" alt="График 2" width="400"/></td>
+      <td><img src="https://github.com/user-attachments/assets/99e048f8-9775-426b-b2a1-2151c409d06d" alt="График 3" width="400"/></td>
     </tr>
   </table>
     <table>
