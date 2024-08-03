@@ -79,15 +79,32 @@ SSClipBot - это мощный бот для скачивания видео и
 
 
 
-https://github.com/user-attachments/assets/2d6c7ae9-a2ab-4c87-b523-a864960da21b
+https://github.com/user-attachments/assets/18f10ad6-5d2e-48f4-b473-133fd289d382
 
 
 
-https://github.com/user-attachments/assets/25618965-2da1-4514-9c04-50066a58e88b
+https://github.com/user-attachments/assets/9240df64-9fbe-496c-a3dd-6e31222907be
 
 
 
-https://github.com/user-attachments/assets/cafc3cf3-f988-4b73-8c7e-c19a77695718
+https://github.com/user-attachments/assets/e5587b5c-284a-453e-be43-62b8f3ad75f0
+
+
+
+https://github.com/user-attachments/assets/f8b700a0-d987-46b7-8f27-d543048aec63
+
+
+
+https://github.com/user-attachments/assets/702f165e-c739-497d-a8c1-865afd070c6e
+
+
+
+https://github.com/user-attachments/assets/d458b22b-929d-452f-81f9-64e9cad53b5d
+
+
+
+
+
 
 
 
@@ -95,9 +112,9 @@ https://github.com/user-attachments/assets/cafc3cf3-f988-4b73-8c7e-c19a77695718
 
   <table>
     <tr>
-      <td><img src="https://github.com/user-attachments/assets/a70fda41-572f-4b4a-a173-ea31fd8868c1" alt="График 1" width="400"/></td>
-      <td><img src="https://github.com/user-attachments/assets/d892911f-23dd-4aa9-bc06-0ea42ac63368" alt="График 2" width="400"/></td>
-      <td><img src="https://github.com/user-attachments/assets/99e048f8-9775-426b-b2a1-2151c409d06d" alt="График 3" width="400"/></td>
+      <td><img src="https://github.com/user-attachments/assets/7e1abb6b-1647-461a-91bb-04e2b7b0d5ec" alt="График 1" width="400"/></td>
+      <td><img src="https://github.com/user-attachments/assets/219b2c01-bafa-4fa1-8840-2398c957555b" alt="График 2" width="400"/></td>
+      <td><img src="https://github.com/user-attachments/assets/6efef766-cb06-4ae2-88fd-d0677b27ca74" alt="График 3" width="400"/></td>
     </tr>
   </table>
     <table>
