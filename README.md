@@ -62,74 +62,12 @@ SSClipBot - это мощный бот для скачивания видео и
   </table>
 
 ### Работа самого бота
-
-
-
-
-
-
-
-
-
-#hesa
-<iframe width="560" height="315" src="https://github.com/user-attachments/assets/18f10ad6-5d2e-48f4-b473-133fd289d382" frameborder="0" allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://github.com/user-attachments/assets/9240df64-9fbe-496c-a3dd-6e31222907be" frameborder="0" allowfullscreen></iframe>
-
-
-
-
-
-
-
+https://github.com/user-attachments/assets/7e1abb6b-1647-461a-91bb-04e2b7b0d5ec
+https://github.com/user-attachments/assets/219b2c01-bafa-4fa1-8840-2398c957555b
+https://github.com/user-attachments/assets/6efef766-cb06-4ae2-88fd-d0677b27ca74
 https://github.com/user-attachments/assets/18f10ad6-5d2e-48f4-b473-133fd289d382
-
-
-
 https://github.com/user-attachments/assets/9240df64-9fbe-496c-a3dd-6e31222907be
-
-
-
 https://github.com/user-attachments/assets/e5587b5c-284a-453e-be43-62b8f3ad75f0
-
-
-
 https://github.com/user-attachments/assets/f8b700a0-d987-46b7-8f27-d543048aec63
-
-
-
 https://github.com/user-attachments/assets/702f165e-c739-497d-a8c1-865afd070c6e
-
-
-
 https://github.com/user-attachments/assets/d458b22b-929d-452f-81f9-64e9cad53b5d
-
-
-
-
-
-
-
-
-
-
-  <table>
-    <tr>
-      <td><img src="https://github.com/user-attachments/assets/7e1abb6b-1647-461a-91bb-04e2b7b0d5ec" alt="График 1" width="400"/></td>
-      <td><img src="https://github.com/user-attachments/assets/219b2c01-bafa-4fa1-8840-2398c957555b" alt="График 2" width="400"/></td>
-      <td><img src="https://github.com/user-attachments/assets/6efef766-cb06-4ae2-88fd-d0677b27ca74" alt="График 3" width="400"/></td>
-    </tr>
-  </table>
-    <table>
-    <tr>
-      <td><img src="https://github.com/user-attachments/assets/0d6dbcc9-9f18-425b-a03d-b49cdffc1bd0" alt="График 1" width="400"/></td>
-      <td><img src="https://github.com/user-attachments/assets/31a380c4-c165-4a82-ac6b-4b586621f45a" alt="График 2" width="400"/></td>
-      <td><img src="https://github.com/user-attachments/assets/54a8c375-6450-4ed4-9658-a03bea04c43e" alt="График 3" width="400"/></td>
-    </tr>
-  </table>
-    <table>
-    <tr>
-      <td><img src="https://github.com/user-attachments/assets/08458aa1-70ea-4fcf-b93d-e79f82f2f404" alt="График 1" width="400"/></td>
-      <td><img src="https://github.com/user-attachments/assets/98546a58-b359-414d-aa99-87ff973352b2" alt="График 2" width="400"/></td>
-      <td><img src="https://github.com/user-attachments/assets/540d67d3-1c9c-4ec0-a91c-8d29f0e6af53" alt="График 3" width="400"/></td>
-    </tr>
-  </table>
